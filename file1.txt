@@ -1,7 +1,4 @@
-<<<<<<< HEAD
  hi how r u
-=======
 hi Arun
 iam good
->>>>>>> feature
 nice to hear arun
